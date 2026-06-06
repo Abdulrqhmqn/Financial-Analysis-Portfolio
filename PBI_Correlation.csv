@@ -1,0 +1,26 @@
+Asset_1,Asset_2,Correlation
+GTCo,GTCo,1.0
+Dangote,GTCo,-0.017
+Seplat,GTCo,-0.022
+USD/NGN,GTCo,0.027
+NGX Index,GTCo,0.026
+GTCo,Dangote,-0.017
+Dangote,Dangote,1.0
+Seplat,Dangote,-0.043
+USD/NGN,Dangote,-0.005
+NGX Index,Dangote,0.085
+GTCo,Seplat,-0.022
+Dangote,Seplat,-0.043
+Seplat,Seplat,1.0
+USD/NGN,Seplat,-0.051
+NGX Index,Seplat,-0.058
+GTCo,USD/NGN,0.027
+Dangote,USD/NGN,-0.005
+Seplat,USD/NGN,-0.051
+USD/NGN,USD/NGN,1.0
+NGX Index,USD/NGN,0.024
+GTCo,NGX Index,0.026
+Dangote,NGX Index,0.085
+Seplat,NGX Index,-0.058
+USD/NGN,NGX Index,0.024
+NGX Index,NGX Index,1.0

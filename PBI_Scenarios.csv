@@ -1,0 +1,6 @@
+Scenario,GTCo_Shock_%,Dangote_Shock_%,Seplat_Shock_%,USD_NGN_Shock_%,Portfolio_Impact_Pct,PnL_NGN
+NGN Devaluation -30%,-15.0,-20.0,10.0,-30.0,-8.3,-83333.0
+Oil Price Crash -40%,-10.0,-5.0,-40.0,15.0,-18.3,-183333.0
+CBN Rate Hike +500bps,-25.0,-20.0,-15.0,5.0,-20.0,-200000.0
+Market Crash -35%,-35.0,-35.0,-35.0,20.0,-35.0,-350000.0
+Bull Run +40%,40.0,40.0,40.0,-10.0,40.0,400000.0

@@ -1,0 +1,11 @@
+KPI,Value,Unit
+Annualised Return,74.07,%
+Annualised Volatility,30.57,%
+Sharpe Ratio,1.556,x
+Max Drawdown,-19.28,%
+"VaR 95% (1-day, Param)",-2.874,%
+"VaR 99% (1-day, Param)",-4.185,%
+"VaR 95% (1-day, Hist)",-2.822,%
+"VaR 99% (1-day, Hist)",-4.432,%
+Risk-Free Rate (MPR),26.5,%
+Excess Return vs MPR,47.57,%
